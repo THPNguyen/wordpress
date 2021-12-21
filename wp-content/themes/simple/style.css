@@ -1,0 +1,23 @@
+/* Theme name : Simple
+Author: Brad Traversy
+Author URI: http://eduonix.com
+Descrioption: Very Simple Wordpress theme
+Version: 1.0 */
+
+a {
+    color: #333;
+}
+
+article.post {
+    border-bottom: 1px #ccc solid;
+    overflow: hidden;
+}
+
+a.button {
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
