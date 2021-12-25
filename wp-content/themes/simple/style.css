@@ -21,3 +21,69 @@ a.button {
     margin-bottom: 10px;
     text-decoration: none;
 }
+
+.post-thumbnail img {
+    width: 100%;
+    height: auto;
+}
+
+.main {
+    margin: 15px 0;
+    float: left;
+    width: 68%;
+}
+
+.main-nav {
+    background: #000;
+    color: fff;
+    padding: 30px;
+}
+
+.main-nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav li {
+    list-style: none;
+    float: left;
+    padding-right: 15px;
+}
+
+.main-nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    background: #393939;
+    color: #fff;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.clr {
+    clear: both;
+}
+
+.sidebar {
+    float: right;
+    width: 28%;
+}
+
+.side-widget {
+    border: 1px #ccc solid;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.side-widget li {
+    list-style: none;
+    line-height: 2.2em;
+    border-bottom: dotted 1px #ccc;
+}
+
+.side-widget a {
+    text-decoration: none;
+}
