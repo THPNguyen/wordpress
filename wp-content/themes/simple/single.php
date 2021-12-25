@@ -38,6 +38,7 @@
         <?php else :  ?>
             <?php echo wpautop('Sory, No posts were found'); ?>
         <?php endif; ?>
+        <?php comments_template(); ?>
     </div>
     <?php get_footer(); ?>
 </body>
